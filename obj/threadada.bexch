@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__threadada.o
+[PROJECT FILES]
+D:\Projects\TreadAda\threadada.gpr
+20240227081224 570360801136fc44c5315b793533c523
+[BOUND OBJECT FILES]
+D:\Projects\TreadAda\obj\threadada.o
+[GENERATED SOURCE FILES]
+b__threadada.ads
+b__threadada.adb
+b__threadada.ali
+[RESULTING OPTIONS]
+-LD:\Projects\TreadAda\obj\
+-LD:\Projects\TreadAda\obj\
+-LD:/program/adacore/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+D:/program/adacore/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+D:/program/adacore/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
